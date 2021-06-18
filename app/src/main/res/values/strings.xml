@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JioTesseractLauncher</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="version_code">Version code: %1$s</string>
+    <string name="version_name">Version name: %1$s</string>
+    <string name="search_app">Search app here...</string>
+    <string name="no_matcing_app_found">No matching app found</string>
+    <string name="application_install">Application install</string>
+    <string name="application_uninstall">Application uninstall</string>
+    <string name="uninstallTitle">Uninstall Confirm</string>
+    <string name="delete_title">Delete title</string>
+    <string name="uninstallConfirmMsg">Do you want to uninstall selected applications?</string>
+    <string name="delete_message">Do you want to delete this application</string>
+    <string name="delete">Delete</string>
+    <string name="label_uninstall">Uninstall</string>
+    <string name="alert_cancel">Cancel</string>
+</resources>
